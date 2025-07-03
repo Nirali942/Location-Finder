@@ -1,4 +1,6 @@
 🗺️ Map and Navigation Web App
+
+
 A responsive and feature-rich web application built with HTML, CSS, and JavaScript, offering real-time location search, route planning, nearby place discovery, and live map interaction powered by OpenStreetMap and Leaflet.js.
 
 🌟 Features
